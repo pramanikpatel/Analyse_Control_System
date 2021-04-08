@@ -5,8 +5,7 @@ Pluging in coefficients of transfer function for calculating the above mentioned
  
 
 ## Research
-![Description](Link to Pic)
--- Content 
+Today many modern tools are available for analysing a control system.The most used are Matlab and octave.
 ## Cost and Features
 ![Description](Link to Pic)
 -- Content 
