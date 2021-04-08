@@ -50,9 +50,14 @@ A typical control system design approach may require 30-40 iterations so calcula
 
  |ID | Description | Status (Implemented/Future) |
  |---|-------------|-----------------------------|
- |HLR1 | To get absolute and relative stabilty parameters | Future
+ |HLR1 | To get absolute and relative stabilty parameters of the control system| Future
 
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+
+| ID | Description | Status (Implemented/Future) |
+|----|-------------|-----------------------------|
+|LR1 | To get absolute stabilty informatiom of system | Future |
+|LR2 | To get rise time of the system       | Future |
+|LR3 | To get peak time of the system       |Future|
+|LR4| To get overshoot of the system | Future|
