@@ -48,8 +48,8 @@ A typical control system design approach may require 30-40 iterations so calcula
 # Detail requirements
 ## High Level Requirements:
 
- ID | Description | Status (Implemented/Future)
- H1 | 
+ |ID | Description | Status (Implemented/Future)
+ |HLR1 | To get absolute and relative stabilty parameters | Future
 
 
 ##  Low level Requirements:
