@@ -13,6 +13,7 @@ Today many modern tools are available for analysing a control system.The most us
 
 ## Defining Our System
 The system takes input as the coefficient of transfer function and outputs parameters like rise time,peak overshoot peak time.As most of the system are second oder in nature so the transfer function coefficient must be a second oder system.
+(https://github.com/pramanikpatel/Analyse_Control_System/blob/main/1_Requirements/Block_Diagram.png)
 
 ## SWOT ANALYSIS
 ![SWOT-Sample](https://github.com/pramanikpatel/Analyse_Control_System/blob/main/1_Requirements/SWOT.png)
