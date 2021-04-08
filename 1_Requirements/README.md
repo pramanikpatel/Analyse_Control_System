@@ -50,14 +50,16 @@ A typical control system design approach may require 30-40 iterations so calcula
 
  |ID | Description | Status (Implemented/Future) |
  |---|-------------|-----------------------------|
- |HLR1 | To get absolute and relative stabilty parameters of the control system| Future
+ |HLR1 | To check absolute stabilty of system | Future |
+ |HLR2 | To get relative stabilty parameters of the system| Future
 
 
 ##  Low level Requirements:
 
 | ID | Description | Status (Implemented/Future) |
 |----|-------------|-----------------------------|
-|LR1 | To get absolute stabilty informatiom of system | Future |
+|LR0 | To get coefficient of transfer function from user| Future
+|LR1 | To get absolute stabilty informatiom of system(Yes/No) | Future |
 |LR2 | To get rise time of the system       | Future |
 |LR3 | To get peak time of the system       |Future|
 |LR4| To get overshoot of the system | Future|
