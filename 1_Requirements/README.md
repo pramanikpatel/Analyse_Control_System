@@ -1,6 +1,7 @@
 # Requirements
 ## Introduction
- Control Systems are used almost everywhere in automation systems.Absolute Stabilty and Relative stability is very important factor to be considered while designing a control system.The designer at every moment of time needs the information of relative stabilty parameters like rise time,peak overshoot and peak time
+ Control Systems are used almost everywhere in automation systems.Absolute Stabilty and Relative stability is very important factor to be considered while designing a control system.The designer at every moment of time needs the information of relative stabilty parameters like rise time,peak overshoot and peak time.
+ Pluging in coefficients of transfer function for calculating the above mentioned parameters is quiet difficult, when recursive approach of designing is taken.So taking this into consideration this program can help the designer to plug the coefficient of transfer function only once and the program will provide all the required parameter in one stroke.
  
 
 ## Research
