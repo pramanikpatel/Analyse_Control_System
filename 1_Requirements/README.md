@@ -28,23 +28,22 @@ The system takes input as the coefficient of transfer function and outputs param
 
 ## Who:
 
-**TBD**swot analysis of project management
+The developer will develop the program for the implementation
 
 ## What:
 
-**TBD**
+Coefficient of the transfer function is to be taken.
 
 ## When:
 
-**TBD**
+This problem of constantly needing the parameter is invoked whenever iterative apporach o design is used
 
 ## Where:
 
-**TBD**
+This problem is generally encountered in control system design sector.
 
 ## How:
-
-**TBD**
+A typical control system design approach may require 30-40 iterations so calculating these parameter for each iteration is quiet cumbersome.
 
 # Detail requirements
 ## High Level Requirements:
