@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
- --- TBD 
+ Control Systems are used almost everywhere in automation systems.Stabilty and relative stability is very important factor to be considered while designing a control system.
 
 ## Research
 ![Description](Link to Pic)
