@@ -19,7 +19,10 @@ The system takes input as the coefficient of transfer function and outputs param
 
 
 ## SWOT ANALYSIS
-![SWOT-Sample](https://github.com/pramanikpatel/Analyse_Control_System/blob/main/1_Requirements/SWOT.png)
+<p align="center">
+  <img src="https://github.com/pramanikpatel/Analyse_Control_System/blob/main/1_Requirements/SWOT.png" />
+</p>
+
 
 # 4W&#39;s and 1&#39;H
 
