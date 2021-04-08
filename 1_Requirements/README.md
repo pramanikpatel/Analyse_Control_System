@@ -1,6 +1,7 @@
 # Requirements
 ## Introduction
- Control Systems are used almost everywhere in automation systems.Stabilty and relative stability is very important factor to be considered while designing a control system.
+ Control Systems are used almost everywhere in automation systems.Absolute Stabilty and Relative stability is very important factor to be considered while designing a control system.The designer at every moment of time needs the information of relative stabilty parameters like rise time,peak overshoot and peak time
+ 
 
 ## Research
 ![Description](Link to Pic)
