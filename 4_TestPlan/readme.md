@@ -13,5 +13,7 @@
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  LR0     |To get coefficient of transfer function from user | 1 2 3  |-------------|----------------|Requirement based |
-|  L_02    |To get absolute stabilty                          |  1 2 3 | Stable      |Stable          |Requirement based |
-|  L_03       |--------------------------------------------------------------|  ------------|-------------|----------------|Boundary based    |
+|  LR1   |To get absolute stabilty                          |  1 2 3 | Stable      |Stable          |Requirement based |
+|  LR2    |To get Rise time                                  |1 2 3   |1.54         | 1.544804       |Requirement Bases |
+| LR3     |To get peak time                                  |1 2 3 | 4.00|  4.00 | Requiremrent Based|
+|LR4      | To get overshoot                                 |1 2 3| 10.859 | 10.859988|Requirement Based|
