@@ -4,9 +4,9 @@
 
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  H_01       |--------------------------------------------------------------|  ------------|-------------|----------------|Requirement based |
-|  H_02       |--------------------------------------------------------------|  ------------|-------------|----------------|Scenario based    |
-|  H_03       |--------------------------------------------------------------|  ------------|-------------|----------------|Boundary based    |
+|  HLR1       |To check absolute stability of system                         |  Stable System|Stable System|Stable System |Requirement based |
+|  HLR2       |To get relative stability parameters                          | Transfer function coefficient|Stability parameters|Stability Parameters |Scenario based    |
+
 
 ## Table no: Low level test plan
 
