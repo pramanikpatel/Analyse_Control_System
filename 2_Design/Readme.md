@@ -8,3 +8,5 @@
 ## Flow Diagram
 ![HighLevelBehaviouralDiagram](https://github.com/pramanikpatel/Analyse_Control_System/blob/main/2_Design/Flow_diagram.png)
 
+## User Case Diagram
+![HighLevelBehaviouralDiagram](https://github.com/pramanikpatel/Analyse_Control_System/blob/main/2_Design/User_case_dia.png)
