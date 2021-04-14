@@ -5,7 +5,7 @@
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  HLR1       |To check absolute stability of system                         | 1 2 3|Stable System|Stable System |Requirement based |
-|  HLR1       |To check absolute stability of system                         | 1 -2 5|Unstable |Stable system  |Requirement based|
+|  HLR1       |To check absolute stability of system                         | 1 -2 5|Unstable |Unstable system  |Requirement based|
 
 
 ## Table no: Low level test plan
