@@ -4,7 +4,9 @@
 Architectectural Diagram
 ![HighLevelStructuralDiagram](https://github.com/pramanikpatel/Analyse_Control_System/blob/main/2_Design/Architectural_Diagram.png)
 
-![HighLevelBehaviouralDiagram](Link to Pic)
+
+Flow Diagram
+![HighLevelBehaviouralDiagram](https://github.com/pramanikpatel/Analyse_Control_System/blob/main/2_Design/Flow_diagram.png)
 
 ## Low Level Design 
 
