@@ -12,4 +12,4 @@
 ![HighLevelBehaviouralDiagram](https://github.com/pramanikpatel/Analyse_Control_System/blob/main/2_Design/User_case_dia.png)
 
 ## Activity Diagram
-https://github.com/pramanikpatel/Analyse_Control_System/blob/main/2_Design/Activity%20diagram.png
+![HighLevelBehaviouralDiagram](https://github.com/pramanikpatel/Analyse_Control_System/blob/main/2_Design/Activity%20diagram.png)
