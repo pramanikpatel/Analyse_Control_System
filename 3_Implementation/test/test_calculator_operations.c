@@ -12,6 +12,7 @@ void test_setling_time();
 
 //float nat_freq=1.732051,zeta=0.577350,dam_freq=1.414214;
   float nat_freq=0,zeta=0,dam_freq=0;
+   float nat_freq_1=1.732051,zeta_1=0.577350,dam_freq_1=1.414214;
 
 /*declaring quality factor function*/
 float quality_factor(float *ptr);
@@ -55,17 +56,20 @@ int main()
 void test_quality_factor()
 {
   TEST_ASSERT_EQUAL(0, quality_factor(&zeta));
+  TEST_ASSERT_EQUAL(0.866025, quality_factor(&zeta_1));
 }
   
 void test_rise_time()
 {
   TEST_ASSERT_EQUAL(0, rise_time(&zeta,&dam_freq));
+  TEST_ASSERT_EQUAL(1.544804, rise_time(&zeta_1,&dam_freq_1));
 }
   
 
   void test_overshoot()
 {
   TEST_ASSERT_EQUAL(0, overshoot(&zeta));
+    TEST_ASSERT_EQUAL(10.859988, overshoot(&zeta_1));
 }
   
 
@@ -73,11 +77,13 @@ void test_rise_time()
 {
 
   TEST_ASSERT_EQUAL(0,setling_time(&zeta,&nat_freq));
+  TEST_ASSERT_EQUAL(4.0000,setling_time(&zeta_1,&nat_freq_1));
 }
   
   void test_delay_time()
 {
 
   TEST_ASSERT_EQUAL(0, delay_time(&zeta,&nat_freq));
+   TEST_ASSERT_EQUAL(0.810684, delay_time(&zeta_1,&nat_freq_1));
 }
   
