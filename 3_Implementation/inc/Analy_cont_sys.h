@@ -2,7 +2,7 @@
 #define __FUN_H__
 
 /*declaring quality factor function*/
-float quality_factor(float *ptr)
+float quality_factor(float *ptr);
 
 /*declaring function stab_check*/
 void stab_check(float *ptr);
