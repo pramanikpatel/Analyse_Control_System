@@ -34,6 +34,7 @@ void main()
     setling_time(&zeta,&nat_freq);
     delay_time(&zeta,&nat_freq);
     quality_factor(&zeta);
+    printf("\nPeak Time %f\n",3.14/dam_freq);
     }
 }
 
