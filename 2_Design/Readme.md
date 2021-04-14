@@ -1,7 +1,7 @@
 # Design
  
 
-##Architectectural Diagram
+## Architectectural Diagram
 ![HighLevelStructuralDiagram](https://github.com/pramanikpatel/Analyse_Control_System/blob/main/2_Design/Architectural_Diagram.png)
 
 
