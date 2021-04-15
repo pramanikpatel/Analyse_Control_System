@@ -14,9 +14,9 @@ float rise_time(float *ptr,float *ptr_1);
 float overshoot(float *ptr);
 
 /*declaring setling_time function*/
-float setling_time(float *ptr,float *ptr_1);
+float setling_time(float *ptr,float *ptr_1)
 
 /*declaring delay_time function*/
-float delay_time(float *ptr, float *ptr_1);
+float delay_time(float *ptr, float *ptr_1)
 
 #endif 
